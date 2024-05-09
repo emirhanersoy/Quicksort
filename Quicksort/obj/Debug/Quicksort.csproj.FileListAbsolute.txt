@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
